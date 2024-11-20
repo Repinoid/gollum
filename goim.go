@@ -1,7 +1,7 @@
 package gollum
 
 import (
-//	"math/rand/v2"
+	"math/rand/v2"
 )
 
 
