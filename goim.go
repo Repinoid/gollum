@@ -5,7 +5,7 @@ import (
 )
 
 
-func createArray(arrayLength, maxint int) (arra []int) {
+func CreateArray(arrayLength, maxint int) (arra []int) {
 	arra = make([]int, arrayLength)
 	for i := range arra {
 		arra[i] = rand.IntN(maxint)
