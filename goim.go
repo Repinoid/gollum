@@ -11,3 +11,8 @@ func CreateArray(arrayLength, maxint int) (arra []int) {
 	}
 	return
 }
+
+func Goimtest() string {
+	return ("goim !")
+}
+
